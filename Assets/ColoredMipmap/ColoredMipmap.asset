@@ -10,7 +10,7 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: a21bebe72d47c054aa7fabe1a8e57a55, type: 3}
-  m_Name: MipmapChecker
+  m_Name: ColoredMipmap
   m_EditorClassIdentifier: 
   sources:
   - {fileID: 2800000, guid: 9dd76f5130efb994aa634cecab5b063e, type: 3}
