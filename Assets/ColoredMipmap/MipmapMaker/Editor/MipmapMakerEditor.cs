@@ -38,7 +38,7 @@ namespace DouduckLib.MipmapMaker {
 
             this.serializedObject.ApplyModifiedProperties ();
 
-            if (GUILayout.Button ("Create Textre")) {
+            if (GUILayout.Button ("Create Texture")) {
                 CreateMipMap ();
             }
         }
